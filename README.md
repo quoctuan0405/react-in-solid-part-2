@@ -1,4 +1,4 @@
-# React in Solid part 1
+# React in Solid part 2
 
 ## Why I build this project?
 

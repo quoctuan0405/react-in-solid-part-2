@@ -1,0 +1,14 @@
+{
+	"name": "react-in-solid-part-1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "pnpm --filter \"solid-project\" run dev",
+		"build": "pnpm --filter \"react-component\" run build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"packageManager": "pnpm@10.6.4"
+}

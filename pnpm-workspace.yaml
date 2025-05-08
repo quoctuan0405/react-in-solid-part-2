@@ -1,0 +1,3 @@
+packages:
+  - "packages/solid-project"
+  - "packages/react-component"
